@@ -10,9 +10,10 @@
   padding: 30px;
 }
 
-.content {
+/* .content {
   display: inline-block;
-}
+} */
+
 
 
 .sticky {
@@ -20,3 +21,4 @@
   top: 0;
   width: 100%;
 }
+
