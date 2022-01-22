@@ -1,5 +1,5 @@
 .menu {
-  position: sticky;
+  /* position: sticky;*/
   display: inline-block;
   vertical-align: top;
   max-height: 100vh;
